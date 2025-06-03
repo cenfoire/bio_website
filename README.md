@@ -1,15 +1,15 @@
-# Bio Website avec Discord Status
+# Bio Website
 
-Une page de profil personnelle avec affichage en temps réel du statut Discord et recherche automatique d'icônes de jeux.
+A personal profile page with real-time Discord status display and automatic game icon search.
 
-## Fonctionnalités
+## Features
 
-- 🎮 Affichage en temps réel du statut Discord via Lanyard
-- 🕒 Persistance de la dernière activité après rafraîchissement
-- 🖼️ Recherche automatique d'icônes de jeux en ligne
-- ✨ Interface moderne et responsive
-- 🎯 Curseur personnalisé
-- 📱 Compatible mobile
+- 🎮 Real-time Discord status display via Lanyard
+- 🕒 Last activity persistence after refresh
+- 🖼️ Automatic online game icon search
+- ✨ Modern and responsive interface
+- 🎯 Custom cursor
+- 📱 Mobile compatible
 
 ## Technologies
 
@@ -19,10 +19,6 @@ Une page de profil personnelle avec affichage en temps réel du statut Discord e
 
 ## Installation
 
-1. Clonez le repository
-2. Ouvrez `index.html` dans votre navigateur
-3. Remplacez l'ID Discord dans `script.js`
-
-## Demo
-
-Accédez à la démo : [https://cenfoire.github.io/bio_website](https://cenfoire.github.io/bio_website)
+- Clone the repository
+- Open index.html in your browser
+- Replace the Discord ID in script.js
